@@ -1,4 +1,4 @@
-# RTA---Road-Accident-Severity
+# Road-Accident-Severity
 
 **Objective:**
 
