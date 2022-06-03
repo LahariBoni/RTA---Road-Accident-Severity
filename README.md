@@ -10,9 +10,7 @@ This data set is collected from Addis Ababa Sub-city police departments for mast
 
 Link: https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:191591
 
-Insights of the dataset:
-
-Observations:
+**Insights of the dataset:**
 
 Most of the accidents took place on Fridays.
 
@@ -41,16 +39,29 @@ Accidents majorly occured:
   -at office areas
 
 Roads are:
-two way lanes that are divided with broken-lines
-Tangent road with flat terrain
-Y-shaped
-Asphalt surfaced and Dry
+
+  -two way lanes that are divided with broken-lines
+  
+  -Tangent road with flat terrain
+
+  -Y-shaped
+
+  -Asphalt surfaced and Dry
+
 Vehicles are majorly heading straight
+
 Weather conditions are normal and also most of the accidents took place in day light
+
 Majority of the casualities involved are single and are drivers with normal fitness
+
 Most of the casualities are :
-Male
-Aged between 18-30
-Drivers or Riders
+  
+  -Male
+  
+  -Aged between 18-30
+
+  -Drivers or Riders
+
 Fatal injured accidents are relatively less and majority of the accidents caused slight injury.
+
 Majority of the accidents took place cause of improper distancing between the vehicles.
