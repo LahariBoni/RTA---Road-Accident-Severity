@@ -14,15 +14,15 @@ Link: https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:191591
 
 Most of the accidents took place on Fridays.
 
-Majority of the accidents took place by drivers at age around 18-50
+Majority of the accidents took place by drivers at age around 18-50.
 
 Highest number of accidents (approximately 8200) involve 2 vehicles.
 
 Most of the drivers are:
 
-  -Male's with age 18-50 yrs
+  -Male's with age 18-50 yrs.
   
-  -Their education level is junior high school and are employees with 5-1o yrs of experience
+  -Their education level is junior high school and are employees with 5-1o yrs of experience.
 
 Most of the vehicles are:
 
@@ -48,11 +48,11 @@ Roads are:
 
   -Asphalt surfaced and Dry
 
-Vehicles are majorly heading straight
+Vehicles are majorly heading straight.
 
-Weather conditions are normal and also most of the accidents took place in day light
+Weather conditions are normal and also most of the accidents took place in day light.
 
-Majority of the casualities involved are single and are drivers with normal fitness
+Majority of the casualities involved are single and are drivers with normal fitness.
 
 Most of the casualities are :
   
