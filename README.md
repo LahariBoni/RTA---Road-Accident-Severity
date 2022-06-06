@@ -62,6 +62,8 @@ Most of the casualities are :
 
   -Drivers or Riders
 
-Fatal injured accidents are relatively less and majority of the accidents caused slight injury.
+Fatal injured accidents are relatively less and 84.5% of the accidents caused slight injury.
 
 Majority of the accidents took place cause of improper distancing between the vehicles.
+
+Most of the accidents took place in between 3:00 PM and 6:00 PM, while the maximum number of accidents took place around 5:00 PM in the evening hours.
