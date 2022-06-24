@@ -12,7 +12,7 @@ Link: https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:191591
 
 ## **About the dataset:**
 
-31 columns and 2297 rows
+* 32 columns and 12316 rows
 
 ## **Insights of the dataset:**
 
