@@ -10,6 +10,10 @@ This data set is collected from Addis Ababa Sub-city police departments for mast
 
 Link: https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:191591
 
+## **About the dataset:**
+
+31 columns and 2297 rows
+
 ## **Insights of the dataset:**
 
 Most of the accidents took place on Fridays.
