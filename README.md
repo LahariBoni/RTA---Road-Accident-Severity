@@ -16,19 +16,19 @@ Link: https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:191591
 
 ## **Insights of the dataset:**
 
-Most of the accidents took place on Fridays.
+* Most of the accidents took place on Fridays.
 
-Majority of the accidents took place by drivers at age around 18-50.
+* Majority of the accidents took place by drivers at age around 18-50.
 
-Highest number of accidents (approximately 8200) involve 2 vehicles.
+* Highest number of accidents (approximately 8200) involve 2 vehicles.
 
-Most of the drivers are:
+* Most of the drivers are:
 
   -Male's with age 18-50 yrs.
   
   -Their education level is junior high school and are employees with 5-1o yrs of experience.
 
-Most of the vehicles are:
+* Most of the vehicles are:
 
   -personally owned
 
@@ -36,13 +36,13 @@ Most of the vehicles are:
 
   -Automobiles
 
-Accidents majorly occured:
+* Accidents majorly occured:
 
   -are vehicle to vehicle collisions
 
   -at office areas
 
-Roads are:
+* Roads are:
 
   -two way lanes that are divided with broken-lines
   
@@ -52,13 +52,13 @@ Roads are:
 
   -Asphalt surfaced and Dry
 
-Vehicles are majorly heading straight.
+* Vehicles are majorly heading straight.
 
-Weather conditions are normal and also most of the accidents took place in day light.
+* Weather conditions are normal and also most of the accidents took place in day light.
 
-Majority of the casualities involved are single and are drivers with normal fitness.
+* Majority of the casualities involved are single and are drivers with normal fitness.
 
-Most of the casualities are :
+* Most of the casualities are :
   
   -Male
   
@@ -66,8 +66,8 @@ Most of the casualities are :
 
   -Drivers or Riders
 
-Fatal injured accidents are relatively less and 84.5% of the accidents caused slight injury.
+* Fatal injured accidents are relatively less and 84.5% of the accidents caused slight injury.
 
-Majority of the accidents took place cause of improper distancing between the vehicles.
+* Majority of the accidents took place cause of improper distancing between the vehicles.
 
-Most of the accidents took place in between 3:00 PM and 6:00 PM, while the maximum number of accidents took place around 5:00 PM in the evening hours.
+* Most of the accidents took place in between 3:00 PM and 6:00 PM, while the maximum number of accidents took place around 5:00 PM in the evening hours.
